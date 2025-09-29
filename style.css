@@ -1,0 +1,25 @@
+.centre-img{
+    display:block;
+    margin: 0 auto;
+    width: 740px;
+}
+    
+.left-img{
+    float:left;
+    width: 100;
+    height: 70;
+}
+.myphoto{
+    background-image:url(myphoto.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background: repeat;
+}
+.butterfly{
+    background-image:url(beautiful-nature.webp) ;
+    background-size: 0;
+}
+.mulcolor{
+    height: 300px;
+    background:linear-gradient(to bottom,red,green,blue)
+}
